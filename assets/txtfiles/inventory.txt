@@ -1,0 +1,10 @@
+Fist
+Weapon
+1
+fist0.png
+-
+Kim Sahng-Sik's Sword
+Weapon
+10
+sword0.png
+-
